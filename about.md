@@ -4,4 +4,4 @@ title: About
 permalink: /about
 ---
 
-You will find all sorts of topics on this site.
+Movie recommendations with spoiler free/light reviews.
