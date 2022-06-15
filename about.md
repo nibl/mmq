@@ -2,9 +2,13 @@
 layout: page
 title: About
 permalink: /about
----
 
+---
 Movie recommendations with spoiler free/light reviews.
+
+
+![2022-06-03-75083.jpeg](https://magnificentmovie.quest/assets/2022-06-03-75083.jpeg)
+
 
 More info and links [privacy](https://example.com).
 
